@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arunjunior
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ....
+- 🌱 Now I’m engaged with learning machine learning
 - 📫 How to reach me arunpeacemaker@gmail.com / insta id--> arun_peace_maker
 
 <!---
